@@ -1,6 +1,6 @@
 {
-  "name": "underscoress",
-  "version": "1.0.0",
+  "name": "lodashss",
+  "version": "1.0.1",
   "description": "Utility Libraries Built by Sridhar Gudimela (sridharspeaks)",
   "main": "objectUtilities.min.js",
   "scripts": {
